@@ -23,9 +23,9 @@ Points per Possession without a timeout:
 
 ## Points per Possession within 5 - 15 seconds
 
-Points per Possession after timeout: 0.4115138592750533
+Points per Possession after timeout: 1.1431334622823985
 
-Points per Possession with no timeout: 0.5310734463276836
+Points per Possession with no timeout: 1.2290467050543825
 
 ## Points per Possession within 5 - 25 seconds
 
